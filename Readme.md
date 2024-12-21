@@ -7,6 +7,9 @@ QuizRewards is a decentralized application (dApp) designed to incentivize learni
 
 ## Contract Address
 0x0B06688669eBF8dbDc09eae125Ca4B039C636306
+![image](https://github.com/user-attachments/assets/fef778b6-58f4-447e-8cdc-a077cb120da8)
+
+
 
 ## Project Vision
 The goal of QuizRewards is to encourage knowledge acquisition and engagement by rewarding users in a decentralized and trustless manner. This project aspires to be a catalyst in merging education with blockchain technology, creating a transparent and accessible system for rewarding learners globally.
